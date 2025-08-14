@@ -33,7 +33,7 @@ There are no limits to how many `SKILL` procs you can add. However, **you can on
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Delete everything except the proc **(DO NOT SAVE `Ctrl+S`)** and export it as `.sus` via via [keyboard shortcut](adding-skill-and-fever-events.md#shortcut-configuration-key-config) (by default it's `Ctrl+E`). You can name it `skillfever.sus` or something else.
+2. Delete everything except the proc **(DO NOT SAVE `Ctrl+S`)** and export it as `.sus` via [keyboard shortcut](adding-skill-and-fever-events.md#shortcut-configuration-key-config) (by default it's `Ctrl+E`). You can name it `skillfever.sus` or something else.
 3. Open the file and scroll down, you'll see the text that look like this:
 
 ```
