@@ -17,10 +17,11 @@
 * [Hi-Speed](making-a-chart/hi-speed.md)
 * [Gimmicks Lab](making-a-chart/gimmicks-lab.md)
 
-## ❓ Advice
+## ❓ Charting Guide
 
-* [General Advice](advice/general-advice.md)
-* [Making Charts in Different Difficulties](advice/making-charts-in-different-difficulties.md)
+* [General Advice](charting-guide/general-advice.md)
+* [Making Charts in Different Difficulties](charting-guide/making-charts-in-different-difficulties.md)
+* [Adding Skill & Fever events](charting-guide/adding-skill-and-fever-events.md)
 
 ***
 

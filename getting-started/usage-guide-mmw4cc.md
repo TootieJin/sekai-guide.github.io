@@ -1,8 +1,8 @@
 ---
-icon: newspaper
 description: >-
   How to use MMW4CC to make charts for Project Sekai (extended features
   included). Last update: September 29th, 2024
+icon: newspaper
 ---
 
 # Usage Guide (MMW4CC)
@@ -25,6 +25,7 @@ The sub-window in the image above is organized for clarity. **This is NOT what i
 * Load charts by selecting `File > Open` from the menu bar
 * Save the current chart into MMW4CC Score file by selecting `File > Save`
 * Export the current chart into `*.usc` file by selecting `File > Export USC`
+  * &#x20;Export the chart into `*.sus` via [keyboard shortcuts](usage-guide-mmw4cc.md#shortcut-configuration-key-config) (by default it's `Ctrl+E`)
 
 ***
 
@@ -157,13 +158,13 @@ An extended feature for [Chart Cyanvas](https://cc.sevenc7c.com). Extended lanes
 \
 It can be adjusted in the `Chart Properties > Metadata` section. Up to 100 extended lanes can be adjusted, though the notes can be placed infinitely further away with the use of [Note Properties](usage-guide-mmw4cc.md#note-properties).
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption><p>Lane Extension</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption><p>Lane Extension</p></figcaption></figure>
 
 ***
 
 ## Note Properties
 
-When selecting **ONLY **_**ONE**_ note (tap, holdStart, holdEnd, flick, etc.), the metadata or configuration information about the note is shown at the note properties sub-window. The metadata can include details such as where the note is, type of notes, lane and width, and more.\
+When selecting **ONLY&#x20;**_**ONE**_ note (tap, holdStart, holdEnd, flick, etc.), the metadata or configuration information about the note is shown at the note properties sub-window. The metadata can include details such as where the note is, type of notes, lane and width, and more.\
 \
 Here, you can adjust the value in each metadata in a very customizable way, with an additional feature of adjustable lane/width note value in decimals (e.g. 5.50 width).
 

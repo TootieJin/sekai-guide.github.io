@@ -1,8 +1,8 @@
 ---
-icon: angles-up
 description: >-
   "Where did the note go!?" - Hi-Speed: How it works and common effects using
   Hi-Speed.
+icon: angles-up
 ---
 
 # Hi-Speed
@@ -40,23 +40,11 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
    2. A negative value Hi-Speed.
    3. A positive value Hi-Speed.
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Step 1</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Step 1</p></figcaption></figure></div>
 
 2. Interpolate Hi-Speeds between the last 2 Hi-Speeds. (This step can be done easily in [MMW4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC) like so.)
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Interpolate Hi-Speeds in MMW4CC</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-09 204941.png" alt=""><figcaption><p>After interpolation</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Interpolate Hi-Speeds in MMW4CC</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2024-09-09 204941.png" alt=""><figcaption><p>After interpolation</p></figcaption></figure></div>
 
 ### Different Hi-Speeds in Different Notes ([MMW4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC))
 
@@ -66,7 +54,7 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
 
 **\[For Beginners]** Place a <mark style="color:red;">x-9999</mark> Hi-speed on each note you want to make disappear, and a <mark style="color:red;">x10000</mark> Hi-Speed halfway between each note. Do this for every other notes _(remember to add separate Layers per notes for this effect)_.\
 \
-**\[Advanced]** Original: [lawneater](https://discordid.netlify.app/?id=579413915197505537) ([message link](https://discord.com/channels/1060525567797112832/1060553867496018000/1167671018735800370))
+&#xNAN;**\[Advanced]** Original: [lawneater](https://discordid.netlify.app/?id=579413915197505537) ([message link](https://discord.com/channels/1060525567797112832/1060553867496018000/1167671018735800370))
 
 1. Place a <mark style="color:red;">x1000</mark> on the point where you want your notes to go invisible, and on each note during that time. (You can stop after about half a measure.)
 2. Take note of your division. The smaller the better. Try to use a number that is divisible by the division your notes are on.
@@ -77,4 +65,4 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
    * and `n` is the reciprocal of the distance between this <mark style="color:red;">x1000</mark> and the next <mark style="color:red;">x1000</mark> Hi-speed in measures (e.g. 1/16, 17/24)
 5. Repeat Steps 3 and 4 for each note. Your chart should look something like this.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>

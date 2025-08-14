@@ -1,8 +1,8 @@
 ---
-icon: interrobang
 description: >-
   Compilation of gimmicks you can do to make your chart feel unique, or
   something. Last updated: October 1st, 2024
+icon: interrobang
 ---
 
 # Gimmicks Lab
@@ -18,15 +18,7 @@ This page is the compilation of gimmicks made by real charters that you can use 
 
 ## Pixelated Holds
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (40).png" alt="" width="251"><figcaption><p>example 1</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (42).png" alt="" width="241"><figcaption><p>example 2</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (40).png" alt="" width="251"><figcaption><p>example 1</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (42).png" alt="" width="241"><figcaption><p>example 2</p></figcaption></figure></div>
 
 ## "Optical Illusion" Holds
 
@@ -36,15 +28,7 @@ Not really sure how to explain this pattern.
 
 ## Floating Hold Ticks
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (44).png" alt="" width="279"><figcaption><p>hiding hold mid outlines</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (45).png" alt="" width="256"><figcaption><p>w/ hold mid outlines</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (44).png" alt="" width="279"><figcaption><p>hiding hold mid outlines</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (45).png" alt="" width="256"><figcaption><p>w/ hold mid outlines</p></figcaption></figure></div>
 
 ## Short "linked" Slide
 
@@ -52,15 +36,7 @@ Not really sure how to explain this pattern.
 
 ## Hollow Slide
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (47).png" alt="" width="284"><figcaption><p>without hold mid outlines</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (48).png" alt="" width="277"><figcaption><p>w/ hold mid outlines</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (47).png" alt="" width="284"><figcaption><p>without hold mid outlines</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (48).png" alt="" width="277"><figcaption><p>w/ hold mid outlines</p></figcaption></figure></div>
 
 ## Change fingers within a Single Hold
 
@@ -70,28 +46,12 @@ In this example: Leave your left finger for the flick, move your right fingers i
 
 ## "熱風" Hold Transition
 
-<div>
-
-<figure><img src="../.gitbook/assets/neppu.gif" alt="" width="360"><figcaption><p>this. it's so cool!!</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (50).png" alt="" width="351"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/neppu.gif" alt="" width="360"><figcaption><p>this. it's so cool!!</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (50).png" alt="" width="351"><figcaption></figcaption></figure></div>
 
 ## Various ingenuity Hold Notes
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="450"><figcaption></figcaption></figure>
 
 ## Thunder Bolts shaped Hold
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="358"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="358"><figcaption></figcaption></figure></div>

@@ -16,15 +16,7 @@ HARD charts, unlike EXPERT or MASTER, do not have tap notes accompanying the beg
 嬢王 has an exception, with a critical tap accompanying the end of a hold note. It also has an exception with various "trace" hold notes coming one after the other around 1:25, but The EmpErroR also has that (picture shown soon).&#x20;
 {% endhint %}
 
-<div>
-
-<figure><img src="../.gitbook/assets/image_2.png" alt="" width="175"><figcaption><p>The EmpErroR HARD</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image_1.png" alt="" width="186"><figcaption><p>嬢王 (Jouou) HARD</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image_2.png" alt="" width="175"><figcaption><p>The EmpErroR HARD</p></figcaption></figure> <figure><img src="../.gitbook/assets/image_1.png" alt="" width="186"><figcaption><p>嬢王 (Jouou) HARD</p></figcaption></figure></div>
 
 The end of hold notes lines up with the end of a lyric statement or beat. Directional flicks are not usually common. "Spam" parts have breaks in-between, and they're usually not too fast. If there is a fast part, it will be replaced by a hold note with hold mids/steps, or it will be relatively short.
 
@@ -46,7 +38,7 @@ MASTER (and [APPEND](making-charts-in-different-difficulties.md#append)) charts 
 
 APPEND is the 6th difficulty which features charts meant to be played with more than three fingers (\*). The notes usually comes in a 4-lane formation, hold notes usually end with a trace note, and occasional cross-hand patterns. \
 \
-**(\*)** _You can sorta use two fingers and achieve FC/AP if you're crazy enough to do so._
+&#xNAN;**(\*)** _You can sorta use two fingers and achieve FC/AP if you're crazy enough to do so._
 
 ### Use different note types to determine finger placements
 

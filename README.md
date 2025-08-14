@@ -4,25 +4,11 @@ description: >-
   Sekai, (a.k.a "Project Sekai Fanmade").
 cover: .gitbook/assets/CUSTOM CHARTING GUIDE empty (1).png
 coverY: 31.56059285091543
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 Welcome!
 
-This guide is written to explain the _charting_ process in a (hopefully) simple but effective way with the musically and technologically inexperienced in mind. It will go over the process of  choosing a song, timing, placement of notes, and publishing your chart.&#x20;
+This guide is written to explain the _charting_ process in a (hopefully) simple but effective way with the musically and technologically inexperienced in mind. It will go over the process of choosing a song, timing, placement of notes, and publishing your chart.&#x20;
 
 {% hint style="warning" %}
 This wiki is under construction. You can help [contribute the wiki here](contribute/).&#x20;
