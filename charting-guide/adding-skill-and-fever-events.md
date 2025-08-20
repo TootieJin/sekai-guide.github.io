@@ -28,7 +28,7 @@ FEVER START: critical tap note on the 2nd extended lane (right)
 ```
 
 {% hint style="warning" %}
-There are no limits to how many `SKILL` procs you can add. However, **you can only proc 1 `FEVER CHANCE` & 1 `FEVER START`** per chart.
+UntitledCharts is currently in progress of working so that you can have unlimited `SKILL` procs. For now, **you can only add 6 `SKILL` procs, 1 `FEVER CHANCE` & 1 `FEVER START`** per chart.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -83,7 +83,7 @@ There are no limits to how many `SKILL` procs you can add. However, **you can on
 #HISPEED 00
 #MEASUREHS 00
 
-[INSERT SKILL & FEVER PROC BELOW]
+[INSERT SKILL & FEVER PROC BELOW] # don't add comments in your file, i don't know why people added it
 #00710:41
 #02310:41
 #03610:0041
