@@ -28,7 +28,7 @@ FEVER START: critical tap note on the 2nd extended lane (right)
 ```
 
 {% hint style="warning" %}
-UntitledCharts is currently in progress of working so that you can have unlimited `SKILL` procs. For now, **you can only add 6 `SKILL` procs, 1 `FEVER CHANCE` & 1 `FEVER START`** per chart.
+**You can only add 6 `SKILL` procs, 1 `FEVER CHANCE` & 1 `FEVER START`** per chart.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>

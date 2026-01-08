@@ -25,7 +25,7 @@ FEVER START:「クリティカルノート」の2番目の右側延長レーン
 ```
 
 {% hint style="warning" %}
-UntitledChartsは現在、無制限の`SKILL`イベントをご利用いただけるよう開発中です。現時点では、1つの譜面につき、**`SKILL`イベントを6つ、`FEVER CHANCE`を1つ、`FEVER START`を1つ**まで追加可能です。
+**`SKILL`イベントを6つ、`FEVER CHANCE`を1つ、`FEVER START`を1つ**まで追加可能です。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
